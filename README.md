@@ -1,2 +1,3 @@
 # Florest-Paralax
-Projetinho para brincar com Paralax
+
+Landing page Trícia Camping - Exercício para brincar com Paralax e Card Animados
