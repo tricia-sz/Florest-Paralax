@@ -201,15 +201,15 @@ section #text span {
   color: white;
 }
 .card-1 .card-front {
-  background-image: url(/assets/img/mochila.jpg);
+  background-image: url(/src/assets/img/mochila.jpg);
   align-items: center;
 }
 .card-2 .card-front {
-  background-image: url(/assets/img/dual-2.jpeg);
+  background-image: url(/src/assets/img/dual-2.jpeg);
   align-items: center;
 }
 .card-3 .card-front {
-  background-image: url(/assets/img/tresback.jpeg);
+  background-image: url(/src/assets/img/tresback.jpeg);
   align-items: center;
 }
 .card-front::before {
@@ -234,17 +234,17 @@ section #text span {
 }
 
 .card-1 .card-back {
-  background-image: url(/assets/img/barraca.jpeg);
+  background-image: url(/src/assets/img/);
   transform: rotateY(180deg);
   gap: 0.5rem;
 }
 .card-2 .card-back {
-  background-image: url(/assets/img/dual3.jpeg);
+  background-image: url(/src/assets/img/dual3.jpeg);
   transform: rotateY(180deg);
   gap: 0.5rem;
 }
 .card-3 .card-back {
-  background-image: url(/assets/img/tresfront.jpeg);
+  background-image: url(/src/assets/img/tresfront.jpeg);
   transform: rotateY(180deg);
   gap: 0.5rem;
 }
